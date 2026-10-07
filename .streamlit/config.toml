@@ -1,0 +1,4 @@
+#config.toml → Streamlit application/server configuration kosam use chesam.
+
+[server]
+fileWatcherType = "none"
